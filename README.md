@@ -174,7 +174,7 @@ Each project reflects:
 
 ## 📬 Connect With Me  
 
-- 📧 **Email:** maha.naz.dev@gmail.com  
+- 📧 **Email:** [Maha-Naz](maha.naz.dev@gmail.com)  
 - 💼 **LinkedIn:** [Maha-Naz](https://www.linkedin.com/in/maha-naz-8a6495246/)  
 - 🧑‍💻 **GitHub:** [Maha-Naz](https://github.com/Maha-1384)  
 
