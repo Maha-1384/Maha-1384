@@ -23,11 +23,11 @@ I bring a strong **perfectionist and organizer mindset**, ensuring clarity, orde
 
 ## 🎯 Career Focus  
 
-- ✅ Technical Writing & Documentation  
-- ✅ Manual QA & Software Testing  
-- ✅ Product & Project Support  
-- ✅ UI/UX & Frontend Collaboration  
-- ✅ Agile & Cross-Functional Teamwork  
+- Technical Writing & Documentation  
+- Manual QA & Software Testing  
+- Product & Project Support  
+- UI/UX & Frontend Collaboration  
+- Agile & Cross-Functional Teamwork  
 
 ---
 
@@ -109,6 +109,7 @@ PDF export, inline annotations, scoring system, syntax highlighting & review his
 - 🛒 **Shopping List App** — Local storage productivity tool  
 
 Each project reflects:
+
 ✅ Clean UI  
 ✅ Structured logic  
 ✅ Data persistence  
@@ -174,7 +175,7 @@ Each project reflects:
 ## 📬 Connect With Me  
 
 - 📧 **Email:** maha.naz.dev@gmail.com  
-- 💼 **LinkedIn:** maha-naz  
+- 💼 **LinkedIn:** [maha-naz](https://www.linkedin.com/in/maha-naz-8a6495246/)  
 - 🧑‍💻 **GitHub:** https://github.com/Maha-1384  
 
 ---
