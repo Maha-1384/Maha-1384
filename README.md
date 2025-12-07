@@ -163,11 +163,9 @@ Each project reflects:
 ## 📊 GitHub Stats (Live)  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maha-1384&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maha-1384&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maha-1384&layout=compact&theme=tokyonight" />
 </p>
 
 ---
