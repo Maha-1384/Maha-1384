@@ -1,192 +1,138 @@
-<h1 align="center">Hi, I'm Maha Naz 👩‍💻</h1>
-<h3 align="center">Software Engineering Graduate | Technical Writing • QA • Product & Project Collaboration</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-blue" />
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Local-success" />
-  <img src="https://img.shields.io/badge/Focus-Technical%20Writing%20%7C%20QA%20%7C%20Product-brightgreen" />
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-orange" />
-  <img src="https://komarev.com/ghpvc/?username=Maha-1384&color=blue" />
-</p>
+# Hi, I’m Maha Naz 👋
 
----
+### Software Engineering Graduate · SAP ABAP Developer in Training · Business Development Executive
 
-## 👋 About Me  
+**Building technical skills. Understanding client needs. Creating clear, usable solutions.**
 
-I am a **detail-driven Software Engineering graduate** with hands-on experience in **frontend development, technical documentation, and quality assurance**. I specialize in converting **complex technical systems into clear, user-centric documentation** while ensuring **software usability, quality, and structure**.
+[LinkedIn](https://www.linkedin.com/in/maha-naz-bsse/) • [Email](mailto:maha.naz.dev@gmail.com) • [Repositories](https://github.com/Maha-1384?tab=repositories)
 
-My strength lies at the intersection of **engineering, documentation, testing, and product thinking**—making me a strong fit for **Technical Writer, QA Analyst, and Product/Project-focused roles**.
+📍 Karachi, Pakistan
 
-I bring a strong **perfectionist and organizer mindset**, ensuring clarity, order, and high-quality execution in everything I deliver.
+</div>
 
 ---
 
-## 🎯 Career Focus  
+## 👩‍💻 About Me
 
-- Technical Writing & Documentation  
-- Manual QA & Software Testing  
-- Product & Project Support  
-- UI/UX & Frontend Collaboration  
-- Agile & Cross-Functional Teamwork  
+I’m a Software Engineering graduate from the **University of Karachi**, currently working in **Business Development** while developing my **SAP ABAP programming skills** through SAP Learning and practical exercises.
 
----
+My experience spans frontend development, client communication, graphic design, and technical coordination. I enjoy understanding requirements, creating usable interfaces, testing how they work, and documenting solutions clearly.
 
-## 🧠 Core Strengths  
+This GitHub brings together my web-development practice, design work, and continuing technical learning.
 
-✔ Professional Technical Writing  
-✔ Software Testing & Bug Reporting  
-✔ Requirements Analysis  
-✔ UI/UX Collaboration  
-✔ Agile Workflow Understanding  
-✔ High Attention to Detail  
-✔ Strong Communication & Teamwork  
-✔ Task Planning & Structured Documentation  
+## 🌱 Current Learning Focus
 
----
+### SAP ABAP Development
 
-## 🛠️ Technical Skill Set  
+I’m progressing through SAP Learning’s **Acquiring Core ABAP Skills** journey and currently studying **Deepening Your ABAP Programming Knowledge**.
 
-### 💻 Frontend & Web  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+My learning includes:
 
----
+- ABAP programming fundamentals and practical coding exercises
+- Investigating ABAP code using analysis and testing tools
+- Understanding techniques for improving performance, style, and structure
+- Building foundational knowledge of SAP, ERP, and business processes
 
-### ✨ Design & Documentation  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Lucidchart](https://img.shields.io/badge/Lucidchart-FF6F00?style=for-the-badge&logo=lucidchart&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
-![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
+**Status:** Learning in progress, with practical ABAP exercises completed.
 
----
+[Explore the SAP learning journey →](https://learning.sap.com/learning-journeys/acquiring-core-abap-skills)
 
-### 🔧 Tools & Workflow  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge)
+## 🛠️ Skills and Tools
 
----
+| Area | Skills |
+| :--- | :--- |
+| **SAP — Learning** | ABAP fundamentals, practical exercises, SAP and ERP concepts |
+| **Frontend Development** | HTML5, CSS3, JavaScript, Bootstrap, responsive interfaces |
+| **Web Integration** | REST APIs, basic PHP/MySQL, WordPress |
+| **Testing** | Manual frontend testing, debugging, issue reporting |
+| **Documentation** | Technical documentation, user guides, requirements documentation, presentations |
+| **Business Development** | Lead generation, prospect research, outreach, follow-ups, client communication |
+| **Design** | Branding assets, social media visuals, marketing graphics, UI mockups |
 
-## 💼 Professional Experience  
+**Development:** Visual Studio Code · Git · GitHub  
+**Planning and Documentation:** Jira · Trello · Google Sheets · Google Docs · Microsoft Office  
+**Design and Collaboration:** Canva · Adobe Illustrator · Lucidchart · Miro
 
-### Frontend Developer — *Technomide*  
-**Oct 2024 – Apr 2025**
-- Built responsive web interfaces using HTML, CSS, Bootstrap & JavaScript  
-- Integrated frontend with PHP/MySQL backend  
-- Performed testing, debugging & UI verification  
-- Collaborated with designers & backend developers  
-- Participated in requirement analysis and client feedback cycles  
+## 🎓 Final Year Project
 
-### Graphic Design Intern — *AqDaar*  
-**Jun 2023 – Aug 2023**
-- Designed UI mockups, branding & social media visuals  
-- Ensured brand consistency across platforms  
-- Enhanced user engagement through modern UI strategies  
+### AI-Powered Code Review Tool
 
----
+A **team project** involving an ASP.NET Core web application that uses an AI service to provide advisory code-review feedback and refactoring suggestions.
 
-## 🎓 Final Year Project  
+**My main contributions:**
 
-### 🤖 AI-Powered Code Review Tool  
-**ASP.NET Core MVC + OpenAI GPT-5.1**
+- Frontend development and presentation of review results
+- Testing interface functionality and user interactions
+- Technical documentation covering requirements, features, and workflows
+- Project presentations explaining functionality and limitations
+- Collaboration with teammates throughout development and delivery
 
-An AI-based web application that automates **multi-language code reviews** and provides:
+The tool assists human review; its feedback requires developer judgment.
 
-- Code summaries  
-- Refactoring suggestions  
-- Performance analysis  
-- Security vulnerability detection  
-- Best-practice recommendations  
-- Modular MVC architecture & Razor UI  
-- Prompt engineering for precise AI feedback  
+## 📂 Explore My Work
 
-**Planned Enhancements:**  
-PDF export, inline annotations, scoring system, syntax highlighting & review history storage.
+| Repository | Focus |
+| :--- | :--- |
+| [Portfolio](https://github.com/Maha-1384/portfolio) | Personal portfolio and creative work |
+| [Digital Showcase](https://github.com/Maha-1384/Digital-Showcase) | Design and web-development work |
+| [Adoptpet](https://github.com/Maha-1384/adoptpet) | HTML and CSS practice |
+| [DEMMO](https://github.com/Maha-1384/DEMMO) | Portfolio landing-page practice |
+| [NURSERY](https://github.com/Maha-1384/NURSERY) | Nursery website built with HTML and CSS |
 
----
+[Browse all repositories →](https://github.com/Maha-1384?tab=repositories)
 
-## 🚀 Highlighted Projects  
+## 💼 Experience
 
-- 🎬 **Flixx Movie App** — API-based movie search & review platform  
-- 🍽️ **Restaurant Management System** — Web-based operations simulator  
-- 🛒 **Shopping List App** — Local storage productivity tool  
+### Business Development Executive · Appearls
+**August 2026–Present**
 
-Each project reflects:
+- Research prospective clients and identify relevant business opportunities.
+- Conduct outreach and follow-ups, discuss requirements, and maintain prospect communication.
+- Track leads and support client relationships through coordination.
 
-✅ Clean UI  
-✅ Structured logic  
-✅ Data persistence  
-✅ Usability & testing discipline  
+### Web Development Intern · CodeAlpha
+**March–June 2025 · Virtual**
 
----
+- Completed practical web-development assignments.
+- Applied web-development concepts and submitted projects as part of the internship.
 
-## 📜 Certifications  
+### Frontend Development Intern · Technomide
+**November 2024–April 2025**
 
-- Python for Beginners  
-- Introduction to HTML  
-- Introduction to CSS  
-- Web Development for Beginners  
-- Introduction to JavaScript  
-- JavaScript (Intermediate)  
+- Developed responsive interfaces and assisted with PHP/MySQL integration.
+- Performed frontend testing, debugging, and interface improvements.
+- Supported technical coordination for a school management system covering attendance, admissions, classes, and courses.
 
----
+### Graphic Designer · AqDaar
+**June–August 2023**
 
-## 🧩 Soft Skills  
+- Created branding assets, marketing graphics, and social media visuals.
+- Prepared UI mockups and refined designs through feedback.
+- Collaborated with developers on visual consistency.
 
-- Clear Technical Communication  
-- Collaborative Team Player  
-- Analytical Problem Solving  
-- Rapid Adaptability  
-- Time & Task Management  
-- High Organizational Discipline  
-- Professional Technical Writing  
+## 📚 Education and Learning
+
+**Bachelor of Science in Software Engineering**  
+University of Karachi · 2022–2025 · Completed
+
+My continuing learning includes SAP ABAP, web development, testing, and technical documentation.
+
+[View my certificates repository →](https://github.com/Maha-1384/Certifications)
+
+## 🤝 Connect
+
+I’m interested in conversations about **entry-level SAP ABAP opportunities**, web development, and business development for technology services.
+
+- **LinkedIn:** [Maha Naz](https://www.linkedin.com/in/maha-naz-bsse/)
+- **Email:** [maha.naz.dev@gmail.com](mailto:maha.naz.dev@gmail.com)
+- **GitHub:** [Maha-1384](https://github.com/Maha-1384)
 
 ---
 
-## 🎯 Interests  
+<div align="center">
 
-- Workspace & digital organization  
-- UI/UX exploration  
-- Productivity systems  
-- Creative documentation  
-- Technology learning  
+**Learning through practice, improving through feedback.**
 
----
-
-## 🌍 Remote-Ready Profile  
-
-✔ Comfortable with remote collaboration  
-✔ Agile & documentation workflows  
-✔ Clear async communication  
-✔ Organized task & version control  
-✔ Documentation-first engineering mindset  
-
----
-
-## 📊 GitHub Stats (Live)  
-
-<p align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maha-1384&theme=tokyonight" />
-  <br/>
-</p>
-
----
-
-## 📬 Connect With Me  
-
-- 📧 **Email:** [Maha-Naz](maha.naz.dev@gmail.com)  
-- 💼 **LinkedIn:** [Maha-Naz](https://www.linkedin.com/in/maha-naz-8a6495246/)  
-- 🧑‍💻 **GitHub:** [Maha-Naz](https://github.com/Maha-1384)  
-
----
-
-> **“Clarity, structure, and quality are not extras — they are standards.”**
+</div>
