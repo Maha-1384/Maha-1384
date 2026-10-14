@@ -43,7 +43,7 @@ My learning includes:
 
 | Area | Skills |
 | :--- | :--- |
-| **SAP — Learning** | ABAP fundamentals, practical exercises, SAP and ERP concepts |
+| **SAP** | Learning ABAP fundamentals, doing practical exercises, exploring SAP and ERP concepts |
 | **Frontend Development** | HTML5, CSS3, JavaScript, Bootstrap, responsive interfaces |
 | **Web Integration** | REST APIs, basic PHP/MySQL, WordPress |
 | **Testing** | Manual frontend testing, debugging, issue reporting |
