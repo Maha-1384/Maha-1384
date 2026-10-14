@@ -35,7 +35,7 @@ My learning includes:
 - Understanding techniques for improving performance, style, and structure
 - Building foundational knowledge of SAP, ERP, and business processes
 
-**Status:** Learning in progress, with practical ABAP exercises completed.
+**Status:** Learning in progress, with some practical ABAP exercises completed.
 
 [Explore the SAP learning journey →](https://learning.sap.com/learning-journeys/acquiring-core-abap-skills)
 
